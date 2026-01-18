@@ -3,7 +3,8 @@
 A clean, minimal **Pomodoro Timer** built using **HTML, CSS, and JavaScript** to help you stay focused and productive.  
 Designed with a distraction-free dark UI and customizable session lengths.
 
-🔗 **Live Demo:** https://your-vercel-link.vercel.app  
+🔗 **Live Demo:** pomodoro-timer-tau-five.vercel.app
+
 📦 **Deployed using:** Vercel
 
 ---
