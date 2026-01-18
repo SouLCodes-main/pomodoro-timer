@@ -34,9 +34,9 @@ No frameworks. No libraries. Pure frontend.
 
 ## 📸 Preview
 
-![Pomodoro Timer Preview](./preview.png)
+![Pomodoro Timer Preview](./preview/image.png)
 
-> *(Add a screenshot named `preview.png` in your repo for this to work)*
+
 
 ---
 
@@ -44,5 +44,5 @@ No frameworks. No libraries. Pure frontend.
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/pomodoro-timer.git
+git clone https://github.com/SouLCodes-main/pomodoro-timer.git
 
